@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Resume
 
-You can use the [editor on GitHub](https://github.com/KathrynEHansen/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Lotus Gynecology, Central Texas Urogynecology
+- Schedule patients for all 3 clinics through phone calls, online requests, and referrals from other offices
+- Manage medical records requests, incoming and out going
+- Create referrals for patients to see other specialists such physical therapist, oncologists, etc.
+- Receive referrals from multiple doctors and call patients to schedule them. Each patient is specific in their medical needs, so need to talk to patient about the severity of their issue.
+- Check patients in to their appointments and make sure they have all the correct paperwork and insurance information
+- Design banners, newsletters, gift certificates, and web content for the Alchemy Wellness and Lotus Gynecology
+- Participated in planning our grand opening event and holiday bazaar with design work and setup
+- Teach yoga private lessons to patients and clients
+- Familiar with Centricity, Sevocity, and Athenahealth platforms/ EMR systems in scheduling, billing, and charts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Painting with a Twist
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Heartflow
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KathrynEHansen/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
